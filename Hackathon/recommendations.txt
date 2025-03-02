@@ -1,0 +1,35 @@
+
+🔹 **Audience Profile** 🔹
+  - Age: 38
+  - Gender: Female
+  - Skin Type: Normal
+  - Cosmetic Features: ['Anti-aging', 'Anti-acne', 'Hydrating']
+
+✅ Total Fit Products: 15
+
+🔹 **Top Cosmetic Recommendations** 🔹
+1. Beauty Shroom™ Exfoliating Acid Potion by MOON JUICE  
+   - Type: Treatment  
+   - Rank: 4.9, Price: $39  
+   - Suitable for: Combination, Dry, Normal, Oily, Sensitive skin  
+   - Features: Anti-acne, Anti-aging, Hydrating, Anti-dark spots, Night Care
+2. Mask Frenzy by PETER THOMAS ROTH  
+   - Type: Face Mask  
+   - Rank: 4.8, Price: $75  
+   - Suitable for: Combination, Dry, Normal, Oily, Sensitive skin  
+   - Features: Anti-acne, Anti-aging, Hydrating, Anti-dark spots, Night Care
+3. The Method: Polish by LANCER  
+   - Type: Cleanser  
+   - Rank: 4.6, Price: $75  
+   - Suitable for: Combination, Normal skin  
+   - Features: Anti-acne, Anti-aging, Hydrating
+4. AHA/BHA Exfoliating Cleanser by MURAD  
+   - Type: Cleanser  
+   - Rank: 4.6, Price: $39  
+   - Suitable for:  skin  
+   - Features: Anti-acne, Anti-aging, Hydrating, Anti-dark spots, Night Care
+5. Kakadu C™ Amethyst Clay Detox Mask by DERMADOCTOR  
+   - Type: Face Mask  
+   - Rank: 4.6, Price: $58  
+   - Suitable for:  skin  
+   - Features: Anti-acne, Anti-aging, Hydrating
